@@ -1,0 +1,5 @@
+2025-07-20 18:37:59,975 - INFO - Sistema de sonido inicializado.
+2025-07-20 18:38:18,134 - INFO - Credencial escaneada: jwi0fMTlzQx8qo5... Registrando.
+2025-07-20 18:38:18,542 - ERROR - Error de conexión con la API: Expecting value: line 1 column 1 (char 0)
+2025-07-20 18:38:18,544 - WARNING - No se pudo reproducir sonido ERROR: No file 'error.wav' found in working directory 'C:\Users\danie\Documents\GitHub\Generate_gr_python\scanner'.
+2025-07-20 18:38:18,544 - ERROR - Fallo: Error de conexión.

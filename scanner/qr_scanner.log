@@ -1,0 +1,39 @@
+2025-07-20 17:20:54,259 - INFO - Sistema de sonido inicializado
+2025-07-20 17:20:58,542 - INFO - Cámara inicializada correctamente
+2025-07-20 17:22:17,584 - INFO - Escáner interrumpido por el usuario
+2025-07-20 17:22:17,952 - INFO - Escáner cerrado correctamente
+2025-07-20 17:47:17,435 - INFO - Iniciando búsqueda de API funcional...
+2025-07-20 17:47:19,493 - INFO - Sistema de sonido Pygame inicializado.
+2025-07-20 17:47:19,495 - WARNING - No se pudo inicializar el sistema de sonido Pygame: No file 'success.wav' found in working directory 'C:\Users\danie\Documents\GitHub\Generate_gr_python\scanner'.. Sonidos deshabilitados.
+2025-07-20 17:47:24,168 - ERROR - Error inicializando cámara: module 'cv2' has no attribute 'CAP_PROP_OPENED'
+2025-07-20 17:47:24,173 - INFO - Cámara liberada.
+2025-07-20 17:47:24,226 - INFO - Mezclador Pygame liberado.
+2025-07-20 17:47:24,226 - INFO - Escáner cerrado correctamente.
+2025-07-20 17:47:24,227 - INFO - Aplicación finalizada.
+2025-07-20 17:48:17,858 - INFO - Sistema de sonido inicializado
+2025-07-20 17:48:19,570 - INFO - Cámara inicializada correctamente
+2025-07-20 17:48:28,360 - INFO - Token escaneado: jwi0fMTl...
+2025-07-20 17:48:28,708 - INFO - Validación:  - Token ya fue usado
+2025-07-20 17:48:28,709 - WARNING - Error reproduciendo sonido error: No file 'error.wav' found in working directory 'C:\Users\danie\Documents\GitHub\Generate_gr_python\scanner'.
+2025-07-20 18:03:21,183 - INFO - Token escaneado: jwi0fMTl...
+2025-07-20 18:03:21,197 - ERROR - Error en API: Status 500
+2025-07-20 18:03:21,198 - INFO - Validación: ERROR - Error de API: 500
+2025-07-20 18:03:21,199 - WARNING - Error reproduciendo sonido error: No file 'error.wav' found in working directory 'C:\Users\danie\Documents\GitHub\Generate_gr_python\scanner'.
+2025-07-20 18:03:30,392 - INFO - Escáner interrumpido por el usuario
+2025-07-20 18:03:30,719 - INFO - Escáner cerrado correctamente
+2025-07-20 18:03:36,001 - INFO - Sistema de sonido inicializado
+2025-07-20 18:03:37,743 - INFO - Cámara inicializada correctamente
+2025-07-20 18:03:46,357 - INFO - Token escaneado: jwi0fMTl...
+2025-07-20 18:03:47,483 - INFO - Validación:  - Token ya fue usado
+2025-07-20 18:03:47,484 - WARNING - Error reproduciendo sonido error: No file 'error.wav' found in working directory 'C:\Users\danie\Documents\GitHub\Generate_gr_python\scanner'.
+2025-07-20 18:05:31,947 - ERROR - Error en el bucle principal: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\qrcode.cpp:2950: error: (-2:Unspecified error) in function 'class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl cv::ImplContour::decode(const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_OutputArray &) const'
+> Invalid QR code source points (expected: 'contourArea(src_points) > 0.0'), where
+>     'contourArea(src_points)' is 0
+> must be greater than
+>     '0.0' is 0
+
+2025-07-20 18:05:32,249 - INFO - Escáner cerrado correctamente
+2025-07-20 18:48:26,168 - INFO - Sistema de sonido inicializado
+2025-07-20 18:48:28,191 - INFO - Cámara inicializada correctamente
+2025-07-20 18:48:37,461 - INFO - Escáner interrumpido por el usuario
+2025-07-20 18:48:37,770 - INFO - Escáner cerrado correctamente
